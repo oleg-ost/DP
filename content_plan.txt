@@ -1,0 +1,36 @@
+Introduction
+  - Time series data
+  - Forecasting
+  - Aims of diploma thesis
+
+Part 1. Formal task definition and forecating models review
+  - Formal task definition (general mathematical model, data preprocessing, input/output definition, error calculation)
+  - Forecasting models review (short definition, models comparison, advantages/disadvantages)
+  
+Part 2. Data sources review
+  - Data sources (aims of forecasting)
+  - IT time series data
+  - Financial time series data
+  - ...
+
+Part 3. Neural network forecasting model
+  - Model definition
+  - Implementation
+  - Results
+
+Part 4. Autoregresive forecasting model
+  - Model definition
+  - Implementation
+  - Results
+
+Part 5. ......  (Probably markov chains forecasting model. Maybe others)
+  - Model definition
+  - Implementation
+  - Results
+
+Conclusion 
+  - Models comparison / recomendation 
+  - Improvement discussion
+
+
+
