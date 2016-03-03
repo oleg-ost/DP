@@ -29,7 +29,7 @@ Part 5. ......  (Probably markov chains forecasting model. Maybe others)
   - Results
 
 Conclusion 
-  - Models comparison / recomendation 
+  - Models comparison / recommendation 
   - Improvement discussion
 
 
