@@ -6,31 +6,43 @@ Introduction
 Part 1. Formal task definition and forecating models review
   - Formal task definition (general mathematical model, data preprocessing, input/output definition, error calculation)
   - Forecasting models review (short definition, models comparison, advantages/disadvantages)
+  - Check date: 
+  - Final check date:
   
 Part 2. Data sources review
   - Data sources (aims of forecasting)
   - IT time series data
   - Financial time series data
   - ...
+  - Check date: 
+  - Final check date:
 
 Part 3. Neural network forecasting model
   - Model definition
   - Implementation
   - Results
+  - Check date: 
+  - Final check date:
 
 Part 4. Autoregresive forecasting model
   - Model definition
   - Implementation
   - Results
+  - Check date: 
+  - Final check date:
 
 Part 5. ......  (Probably markov chains forecasting model. Maybe others)
   - Model definition
   - Implementation
   - Results
+  - Check date: 
+  - Final check date:
 
 Conclusion 
   - Models comparison / recommendation 
   - Improvement discussion
+  - Check date: 
+  - Final check date: 27. 5. 2016
 
 
 
